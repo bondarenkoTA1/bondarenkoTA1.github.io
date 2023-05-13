@@ -20,7 +20,6 @@ header{
 }
 
 .link-header:hover {
-  background-image: linear-gradient(180deg, #7E57C2 0%, #FFFFFF 9.9%, #FFFFFF 88.54%, #2AB428 100%);
   color: #F86A03;
   transition: 1.5s linear;
 }
