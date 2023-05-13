@@ -11,18 +11,7 @@ header{
     margin-right: 10px;
 }
 
-.link-header {
-  padding: 5px 10px 5px 10px;
-  font-size: 36px;
-  background-color: black;
-  text-decoration: transparent;
-  color: white;
-}
 
-.link-header:hover {
-  color: #F86A03;
-  transition: 1.5s linear;
-}
 
 main {
   margin: 0 auto;
